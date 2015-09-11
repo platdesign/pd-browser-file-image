@@ -2,7 +2,7 @@
   "name": "pd-browser-file-image",
   "description": "Simple browser image processing",
   "author": "Christian Blaschke <mail@platdesign.de>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "pd-browser-file": "*"
   },

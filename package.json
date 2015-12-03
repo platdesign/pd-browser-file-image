@@ -6,5 +6,8 @@
   "dependencies": {
     "pd-browser-file": "*"
   },
-  "repository": "https://github.com/platdesign/pd-browser-file-image.git"
+  "repository": "https://github.com/platdesign/pd-browser-file-image.git",
+  "devDependencies": {
+    "angular": "^1.4.7"
+  }
 }
